@@ -1,6 +1,6 @@
 # Hattay Anas
 
-## Research Intern at CEA Paris | Algorithm Developer | Enthusiastic Learner
+## Research Intern at CEA Paris | Enthusiastic Learner
 
 👋 Hello there! Welcome to my GitHub profile! I'm Hattay Anas, currently working as a research intern at CEA Paris. I'm passionate about developing algorithms and exploring new methods to solve complex problems.
 
