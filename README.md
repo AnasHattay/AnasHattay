@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hattay Anas
 
 ## Research Intern at CEA Paris | Algorithm Developer | Enthusiastic Learner
